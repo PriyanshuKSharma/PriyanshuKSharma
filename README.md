@@ -11,7 +11,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 - **🎓 B.Tech IT (3rd Year)** student focused on Cybersecurity and Cloud Computing.
 - **🔐 InfoSec Enthusiast**: Hands-on experience in Zero Trust, IAM, and network security.
 - **☁️ Cloud and Quantum Computing**: Actively researching Hybrid Quantum-Cloud Systems and practical applications of quantum computing.
-- **💼 Research Intern at IIT Ropar**: Working on XFBench and XFaaS development in a cutting-edge research setting.
+- **💼 Ex- Research Intern at IIT Ropar**: Working on XFBench and XFaaS development in a cutting-edge research setting.
 - **📈 Open-Source Contributor**: Contributing tools, scripts, and resources for the tech community.
 
 ---
