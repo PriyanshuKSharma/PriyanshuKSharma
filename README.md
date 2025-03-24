@@ -96,12 +96,14 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages**: Java, Python, Shell Scripting, Bash
-- **Web Development**: HTML, CSS, JavaScript
+- **Programming Languages**: Java, Python, Dart, Shell Scripting, Bash
+- **Web/App Development**: HTML, CSS, JavaScript, Flutter
 - **Serverless & Cloud Computing**: AWS, Azure, OpenFaaS, Hybrid Cloud Systems
-- **Cybersecurity**: IAM, Threat Landscape Analysis, Zero Trust, Network Security Models
-- **Virtualization & Docker**: Docker, Kubernetes, WSL, VirtualBox
+- **Cybersecurity**: IAM, Threat Landscape Analysis, Zero Trust, Network Security Models, Metasploit, Nmap
+- **Virtualization & Docker**: Docker, Kubernetes, WSL, VirtualBox, VMware ESXi
 - **Quantum Computing**: IBM Quantum Experience, Quantum-Cloud integration
+- **DevOps**: Redis, GitHub Actions, GitLab
+- **Infrastructure as Code**: Terraform, Pulumi
 
 ---
 
