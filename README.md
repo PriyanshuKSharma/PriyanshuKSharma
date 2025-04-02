@@ -124,10 +124,11 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 
 I’m open to discussions on technology, collaboration, and innovative ideas. Let’s connect and explore our shared interests!
 
-- **GitHub**: [@PriyanshuKSharma](https://github.com/PriyanshuKSharma)
+- **Primary GitHub**: [@PriyanshuKSharma](https://github.com/PriyanshuKSharma)
 - **Email**: priyanshu17ks@gmail.com (placeholder)
 - **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/priyanshu-kumar-sharma-333800251) (placeholder)
 - **DockerHub**: [Docker Repos](https://hub.docker.com/u/priyanshuksharma) (placeholder)
+- **Secondary GitHub**: [@itspriyanshuks17](https://github.com/itspriyanshuks17)
 
 Thank you for visiting my profile! 😊 Let’s continue to push boundaries in technology and innovation.
 
