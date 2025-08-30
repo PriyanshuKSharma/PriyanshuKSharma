@@ -92,73 +92,79 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 3. **Fit Raho Gym Website**  
    - Developed an interactive website for **Fit Raho Gym** using **HTML, CSS, and JavaScript** with sections like **About Us**, background images, and buttons for user engagement.
 
----
-
-## 🛠️ Technical Skills  
+---  
 
 ## 🛠️ Technical Skills  
 
 <div align="center">
 
 ### Programming Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Java" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" title="Python" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" title="Dart" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" title="Shell Scripting" />  
 
 ---
 
 ### Web/App Development  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" title="HTML5" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" title="CSS3" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" title="Django" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" title="Flutter" />  
 
 ---
 
 ### Serverless & Cloud Computing  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" />  
-<img src="https://www.openfaas.com/images/logos/openfaas.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="60" height="60" />  
+<img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60" height="60" title="AWS" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" title="Microsoft Azure" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" title="Google Cloud Platform" />  
+<img src="https://tse1.mm.bing.net/th/id/OIP.yD8TOIFQLEe7JmOAnktnMgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" width="" height="60" title="OpenFaaS" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="60" height="60" title="Cloudflare" />  
 
 ---
 
 ### Cybersecurity  
-<img src="https://img.icons8.com/ios-filled/100/000000/security-checked.png" width="60" height="60"/>  
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-hacking-cyber-security-flat-flat-juicy-fish.png" width="60" height="60"/>  
-<img src="https://img.icons8.com/ios-filled/100/000000/nmap.png" width="60" height="60"/>  
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-network-hacking-soft-fill-soft-fill-juicy-fish.png" width="60" height="60"/>  
+<img src="https://img.icons8.com/color/96/security-checked.png" width="60" height="60" title="Security Analysis"/>  
+<img src="https://img.icons8.com/color/96/hacking.png" width="60" height="60" title="Ethical Hacking"/>  
+<img src="https://img.icons8.com/color/96/nmap.png" width="60" height="60" title="Nmap"/>  
+<img src="https://cdn0.iconfinder.com/data/icons/it-infrastructure-3/64/Untitled-1-41-512.png" width="60" height="60" title="Network Security"/>  
 
 ---
 
 ### Virtualization & Docker  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" />  
-<img src="https://img.icons8.com/color/96/linux.png" width="60" height="60"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="60" height="60"/>  
-<img src="https://img.icons8.com/color/96/vmware.png" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" title="Docker" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" title="Kubernetes" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" title="Linux"/>  
+<img src="https://img.icons8.com/color/96/virtualbox.png" width="60" height="60" title="VirtualBox"/>  
+<img src="https://img.icons8.com/color/96/vmware.png" width="60" height="60" title="VMware"/>  
 
 ---
 
 ### Quantum Computing  
-<img src="https://img.icons8.com/color/96/ibm.png" width="60" height="60"/>  
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-quantum-computing-quantum-technology-flaticons-lineal-color-flat-icons.png" width="60" height="60"/>  
+<img src="https://img.icons8.com/color/96/ibm.png" width="90" height="60" title="IBM Quantum"/>  
+<img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket-800x420.png" width="" height="60" title="AWS Braket"/>  
 
 ---
 
 ### DevOps  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="60" height="60"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" title="Redis" />  
+<img src="https://img.icons8.com/color/96/github.png" width="60" height="60" title="GitHub"/>  
+<img src="https://img.icons8.com/color/96/gitlab.png" width="60" height="60" title="GitLab"/>  
 
 ---
 
 ### Infrastructure as Code  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60" />  
-<img src="https://www.pulumi.com/logos/brand/pulumi-mark-on-white.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60" title="Terraform" />  
+<img src="https://www.honeycomb.io/wp-content/uploads/2022/12/integration_pulumi_featured_image.svg" width="" height="60" title="Pulumi" />  
+
+---
+
+### Database & Storage  
+<img src="https://img.icons8.com/color/96/amazon-s3.png" width="60" height="60" title="AWS S3" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" title="MySQL" />  
+<img src="https://tse2.mm.bing.net/th/id/OIP.nORSWGzj7WrEdM-kodeH9wHaD4?rs=1&pid=ImgDetMain&o=7&rm=3" width="" height="60" title="Google Cloud SQL" />  
+<img src="https://th.bing.com/th/id/OIP.JyOjMB_PRv25V3fV-7Wg6gHaEB?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="" height="60" title="Neon DB" />  
 
 </div>
 
@@ -182,10 +188,11 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 I’m open to discussions on technology, collaboration, and innovative ideas. Let’s connect and explore our shared interests!
 
 - **Primary GitHub**: [@PriyanshuKSharma](https://github.com/PriyanshuKSharma)
-- **Email**: priyanshu17ks@gmail.com (placeholder)
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/priyanshu-kumar-sharma-333800251) (placeholder)
-- **DockerHub**: [Docker Repos](https://hub.docker.com/u/priyanshuksharma) (placeholder)
+- **Email**: priyanshu17ks@gmail.com
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/priyanshu-kumar-sharma-333800251)
+- **DockerHub**: [Docker Repos](https://hub.docker.com/u/priyanshuksharma)
 - **Secondary GitHub**: [@itspriyanshuks17](https://github.com/itspriyanshuks17)
+- **Portfolio**: [Click here!](https://priyanshuksharma.github.io/portfolio_priyanshuksharma/)
 
 Thank you for visiting my profile! 😊 Let’s continue to push boundaries in technology and innovation.
 
