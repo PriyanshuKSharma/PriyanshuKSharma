@@ -1,8 +1,14 @@
-# 👨‍💻 Priyanshu Kumar Sharma | B.Tech IT Student | Cloud Technology & Information Security
+# 👨💻 Priyanshu Kumar Sharma | B.Tech IT Student | Cloud Technology & Information Security
 
-Hello! I’m **Priyanshu Kumar Sharma**, a third-year **B.Tech** student specializing in **Information Technology** with a deep passion for **Cloud Computing**, **Cybersecurity**, **Machine Learning** and **Quantum Computing**. I enjoy exploring new frameworks, expanding my expertise in serverless and cloud infrastructures, and advancing in areas like **Identity and Access Management (IAM)**, **Hybrid Quantum-Cloud Systems**, and **Zero Trust Security**.
+Hello! I'm **Priyanshu Kumar Sharma**, a third-year **B.Tech** student specializing in **Information Technology** with a deep passion for **Cloud Computing**, **Cybersecurity**, **Machine Learning** and **Quantum Computing**. I enjoy exploring new frameworks, expanding my expertise in serverless and cloud infrastructures, and advancing in areas like **Identity and Access Management (IAM)**, **Hybrid Quantum-Cloud Systems**, and **Zero Trust Security**.
 
 I embrace a project-based learning approach and have accumulated hands-on experience in research, open-source projects, and security solutions. This README summarizes my experiences, certifications, and projects, highlighting my journey and ambitions in technology.
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/PriyanshuKSharma?style=social)](https://github.com/PriyanshuKSharma)  [![Profile Views](https://komarev.com/ghpvc/?username=PriyanshuKSharma&label=Profile%20Views&color=blue&style=flat)](https://github.com/PriyanshuKSharma)
+
+</div>
 
 ---
 
@@ -35,7 +41,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
    - **Objective**: To explore the **impact of quantum computing** on data storage and develop hybrid systems on **AWS**, **GitHub**, and **IBM Quantum**.
    - **Implementation Details**:
      - Establishing **hybrid cloud systems** with quantum applications using **Docker**, **AWS Lambda**, and **IBM Quantum Experience**.
-     - Documenting and presenting findings in a research paper titled **“Potential Impact of Quantum Computing on Cloud Storage: Hybrid Cloud-Quantum Systems”**.
+     - Documenting and presenting findings in a research paper titled **"Potential Impact of Quantum Computing on Cloud Storage: Hybrid Cloud-Quantum Systems"**.
    - **GitHub Repository**: [Quantum Cloud Integration](https://github.com/PriyanshuKSharma/quantum-cloud-integration)
 
 ### 3. **Identity and Access Management (IAM) - Security Research**
@@ -102,7 +108,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Java" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" title="Python" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" title="Dart" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" title="Shell Scripting" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" title="Bash" />  
 
 ---
 
@@ -142,7 +148,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 ---
 
 ### Quantum Computing  
-<img src="https://img.icons8.com/color/96/ibm.png" width="90" height="60" title="IBM Quantum"/>  
+<img src="https://img.icons8.com/color/96/ibm.png" width="95" height="60" title="IBM Quantum"/>  
 <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket-800x420.png" width="" height="60" title="AWS Braket"/>  
 
 ---
@@ -155,7 +161,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 ---
 
 ### Infrastructure as Code  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60" title="Terraform" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="70" title="Terraform" />  
 <img src="https://www.honeycomb.io/wp-content/uploads/2022/12/integration_pulumi_featured_image.svg" width="" height="60" title="Pulumi" />  
 
 ---
@@ -163,36 +169,65 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 ### Database & Storage  
 <img src="https://img.icons8.com/color/96/amazon-s3.png" width="60" height="60" title="AWS S3" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" title="MySQL" />  
-<img src="https://tse2.mm.bing.net/th/id/OIP.nORSWGzj7WrEdM-kodeH9wHaD4?rs=1&pid=ImgDetMain&o=7&rm=3" width="" height="60" title="Google Cloud SQL" />  
+<img src="https://img.icons8.com/color/96/google-cloud.png" width="70" height="60" title="Google Cloud SQL" />  
 <img src="https://th.bing.com/th/id/OIP.JyOjMB_PRv25V3fV-7Wg6gHaEB?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="" height="60" title="Neon DB" />  
 
 </div>
 
 ---
 
-## 🎯 Future Goals
+## 🌐 Open Source Contribution  
 
-- **SkyVault - A Personal Cloud Solution**  
-   - Designing an interactive, Docker-based cloud storage solution with functionalities like **file upload/download**, **storage organization**, and **global file accessibility**.
+### 🔹 Organization: [Interns-MQI-25](https://github.com/Interns-MQI-25)  
+- Contributed to: [project-interns](https://github.com/Interns-MQI-25/project-interns)  
+- Focus: **Docker, Cloud, and DevOps**  
+- Collaboration with peers to build impactful **industry-level projects**  
 
-- **Publish Research Papers**  
-   - Publishing findings on **Hybrid Cloud-Quantum Systems** and **Identity and Access Management**.
-
-- **Contribute to InfoSec Community**  
-   - Building open-source security tools, scripts, and resources for secure architecture learning and implementation.
+![Org Stats](https://github-readme-stats.vercel.app/api/pin/?username=Interns-MQI-25&repo=project-interns&theme=tokyonight)  
 
 ---
 
-## 📫 Connect with Me
+## 💻 Notable Projects  
 
-I’m open to discussions on technology, collaboration, and innovative ideas. Let’s connect and explore our shared interests!
+- 🐧 **Linux Practicals** → [Repo](https://github.com/PriyanshuKSharma/Linux-Practicals)  
+- 💻 **Win-KeX Setup Guide for Kali Linux (WSL 2)** *(Planned)*  
+- 🎨 **Fit Raho Gym Website** → HTML, CSS, JS website for fitness startup  
+- 🖥 **Java Swing Online Test App** *(Planned)* – Interactive GUI-based test system  
 
-- **Primary GitHub**: [@PriyanshuKSharma](https://github.com/PriyanshuKSharma)
-- **Email**: priyanshu17ks@gmail.com
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/priyanshu-kumar-sharma-333800251)
-- **DockerHub**: [Docker Repos](https://hub.docker.com/u/priyanshuksharma)
-- **Secondary GitHub**: [@itspriyanshuks17](https://github.com/itspriyanshuks17)
-- **Portfolio**: [Click here!](https://priyanshuksharma.github.io/portfolio_priyanshuksharma/)
+---
 
-Thank you for visiting my profile! 😊 Let’s continue to push boundaries in technology and innovation.
+## 📊 GitHub Stats  
 
+<div align="center">
+  
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuKSharma&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKSharma&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuKSharma&theme=tokyonight)  
+
+</div>  
+
+---
+
+## 🎯 Future Goals  
+
+- 🚀 Build **SkyVault: Personal Docker-based Cloud Storage**  
+- 📑 Publish research on **Quantum-Cloud Systems & IAM**  
+- 🔐 Contribute to **open-source InfoSec tools**  
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:priyanshu17ks@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-sharma-333800251"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://github.com/PriyanshuKSharma"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
+  <a href="https://hub.docker.com/u/priyanshuksharma"><img src="https://img.icons8.com/fluency/48/docker.png"/></a>
+  <a href="https://priyanshuksharma.github.io/portfolio_priyanshuksharma/"><img src="https://img.icons8.com/color/48/domain.png"/></a>
+</p>  
+
+---
+
+⭐ *Thank you for visiting my profile! Let's innovate and build the future together.*
