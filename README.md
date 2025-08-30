@@ -96,53 +96,71 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 
 ## 🛠️ Technical Skills  
 
+## 🛠️ Technical Skills  
+
+<div align="center">
+
 ### Programming Languages  
-[![Java](https://img.shields.io/badge/Java-Available-2c5282?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-[![Python](https://img.shields.io/badge/Python-Available-2c5282?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Dart](https://img.shields.io/badge/Dart-Available-2c5282?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)  
-[![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-Available-2c5282?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
-[![Bash](https://img.shields.io/badge/Bash-Available-2c5282?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" />  
+
+---
 
 ### Web/App Development  
-[![HTML](https://img.shields.io/badge/HTML-5-2c5282?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)  
-[![CSS](https://img.shields.io/badge/CSS-3-2c5282?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-2c5282?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)  
-[![Django](https://img.shields.io/badge/Django-Available-2c5282?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)  
-[![Flutter](https://img.shields.io/badge/Flutter-Available-2c5282?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" />  
+
+---
 
 ### Serverless & Cloud Computing  
-[![AWS](https://img.shields.io/badge/AWS-Available-2c5282?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Azure](https://img.shields.io/badge/Azure-Available-2c5282?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
-[![GCP](https://img.shields.io/badge/GCP-Available-2c5282?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)  
-[![OpenFaaS](https://img.shields.io/badge/OpenFaaS-Available-2c5282?style=for-the-badge&logo=openfaas&logoColor=white)](https://www.openfaas.com/)  
-[![Hybrid Cloud](https://img.shields.io/badge/Hybrid_Cloud-Available-2c5282?style=for-the-badge&logo=cloudsmith&logoColor=white)](#)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" />  
+<img src="https://www.openfaas.com/images/logos/openfaas.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="60" height="60" />  
+
+---
 
 ### Cybersecurity  
-[![IAM](https://img.shields.io/badge/IAM-Available-2c5282?style=for-the-badge&logo=security&logoColor=white)](#)  
-[![Zero Trust](https://img.shields.io/badge/Zero_Trust-Available-2c5282?style=for-the-badge&logo=zeromq&logoColor=white)](#)  
-[![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-Available-2c5282?style=for-the-badge&logo=virustotal&logoColor=white)](#)  
-[![Metasploit](https://img.shields.io/badge/Metasploit-Available-2c5282?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)  
-[![Nmap](https://img.shields.io/badge/Nmap-Available-2c5282?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)  
+<img src="https://img.icons8.com/ios-filled/100/000000/security-checked.png" width="60" height="60"/>  
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-hacking-cyber-security-flat-flat-juicy-fish.png" width="60" height="60"/>  
+<img src="https://img.icons8.com/ios-filled/100/000000/nmap.png" width="60" height="60"/>  
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-network-hacking-soft-fill-soft-fill-juicy-fish.png" width="60" height="60"/>  
+
+---
 
 ### Virtualization & Docker  
-[![Docker](https://img.shields.io/badge/Docker-Available-2c5282?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Available-2c5282?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
-[![WSL](https://img.shields.io/badge/WSL-Available-2c5282?style=for-the-badge&logo=linux&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)  
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-Available-2c5282?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)  
-[![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-Available-2c5282?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" />  
+<img src="https://img.icons8.com/color/96/linux.png" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="60" height="60"/>  
+<img src="https://img.icons8.com/color/96/vmware.png" width="60" height="60"/>  
+
+---
 
 ### Quantum Computing  
-[![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-Available-2c5282?style=for-the-badge&logo=ibm&logoColor=white)](https://quantum-computing.ibm.com/)  
-[![Quantum Cloud](https://img.shields.io/badge/Quantum_Cloud-Integration-2c5282?style=for-the-badge&logo=cloudflare&logoColor=white)](#)  
+<img src="https://img.icons8.com/color/96/ibm.png" width="60" height="60"/>  
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-quantum-computing-quantum-technology-flaticons-lineal-color-flat-icons.png" width="60" height="60"/>  
+
+---
 
 ### DevOps  
-[![Redis](https://img.shields.io/badge/Redis-Available-2c5282?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)  
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Available-2c5282?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)  
-[![GitLab](https://img.shields.io/badge/GitLab-Available-2c5282?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60"/>  
+
+---
 
 ### Infrastructure as Code  
-[![Terraform](https://img.shields.io/badge/Terraform-Available-2c5282?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)  
-[![Pulumi](https://img.shields.io/badge/Pulumi-Available-2c5282?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60" />  
+<img src="https://www.pulumi.com/logos/brand/pulumi-mark-on-white.svg" width="60" height="60" />  
+
+</div>
 
 ---
 
