@@ -183,16 +183,21 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 - Focus: **Docker, Cloud, and DevOps**  
 - Collaboration with peers to build impactful **industry-level projects**  
 
+
+<div align="center">
+
 ![Org Stats](https://github-readme-stats.vercel.app/api/pin/?username=Interns-MQI-25&repo=project-interns&theme=tokyonight)  
+
+</div>
 
 ---
 
 ## 💻 Notable Projects  
 
-- 🐧 **Linux Practicals** → [Repo](https://github.com/PriyanshuKSharma/Linux-Practicals)  
-- 💻 **Win-KeX Setup Guide for Kali Linux (WSL 2)** *(Planned)*  
-- 🎨 **Fit Raho Gym Website** → HTML, CSS, JS website for fitness startup  
-- 🖥 **Java Swing Online Test App** *(Planned)* – Interactive GUI-based test system  
+- 🌩️ [**Media Storage SaaS**](https://github.com/PriyanshuKSharma/media-storage-saas) – A scalable cloud-based storage SaaS.  
+- ⚛️ [**Quantum-Cloud Integration**](https://github.com/PriyanshuKSharma/quantum-cloud-integration) – Hybrid Quantum-Cloud system with AWS & IBM Q.  
+- ☁️ [**SkyVault**](https://github.com/PriyanshuKSharma/SkyVault) – Personal cloud platform with Docker & interactive frontend.  
+- 🌱 [**EcoBizz: Sustainably Yours**](https://github.com/PriyanshuKSharma/EcoBizz-Sustainably-Yours---GDSC-Solution-Challenge-2024) – GDSC 2024 Solution Challenge project for sustainability.  
 
 ---
 
@@ -202,9 +207,11 @@ I embrace a project-based learning approach and have accumulated hands-on experi
   
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuKSharma&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKSharma&layout=compact&theme=tokyonight)  
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuKSharma&theme=tokyonight)  
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKSharma&layout=compact&theme=tokyonight&card_width=320)  
+
 
 </div>  
 
