@@ -181,7 +181,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 ### Infrastructure as Code
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="70" title="Terraform" />  
-<img src="https://www.honeycomb.io/wp-content/uploads/2022/12/integration_pulumi_featured_image.svg" width="" height="60" title="Pulumi" />
+<img src="[https://www.honeycomb.io/wp-content/uploads/2022/12/integration_pulumi_featured_image.svg](https://tse4.mm.bing.net/th/id/OIP.ez8CrWOrxEy9PlWdx0bOGAAAAA?w=428&h=107&rs=1&pid=ImgDetMain&o=7&rm=3)" width="" height="60" title="Pulumi" />
 
 ---
 
