@@ -1,8 +1,8 @@
 # 👨💻 Priyanshu Kumar Sharma | B.Tech IT Student | Cloud Technology & Information Security
 
-Hello! I'm **Priyanshu Kumar Sharma**, a fourth-year **B.Tech** student specializing in **Information Technology** with a deep passion for **Cloud Computing**, **Cybersecurity**, **Machine Learning** and **Quantum Computing**. I enjoy exploring new frameworks, expanding my expertise in serverless and cloud infrastructures, and advancing in areas like **Identity and Access Management (IAM)**, **Hybrid Quantum-Cloud Systems**, and **Zero Trust Security**.
+Hello! I'm **Priyanshu Kumar Sharma**, a final-year **B.Tech Information Technology** student and a driven technologist with a profound focus on **Cloud Architecture**, **Cybersecurity**, **Machine Learning**, and **Quantum Computing**. I thrive on designing scalable systems and am constantly expanding my expertise in serverless paradigms, multi-cloud orchestration (like my work on **Nebula**), and advanced security domains including **Identity & Access Management (IAM)**, **Zero Trust Security**, and exploratory **Hybrid Quantum-Cloud Integrations**.
 
-I embrace a project-based learning approach and have accumulated hands-on experience in research, open-source projects, and security solutions. This README summarizes my experiences, certifications, and projects, highlighting my journey and ambitions in technology.
+Driven by a rigorous, hands-on philosophy, I have built a diverse engineering track record spanning academic cloud research, open-source development, and enterprise-grade security solutions. This portfolio outlines my professional journey, ongoing research endeavors, certifications, and the cutting-edge systems I'm building to solve complex infrastructure challenges.
 
 <div align="center">
 
@@ -55,6 +55,12 @@ I embrace a project-based learning approach and have accumulated hands-on experi
   - Implementing the **AAA framework** for improved security in distributed networks.
 - **Outcome**: Practical understanding of IAM policies and their implementation in secure networks.
 
+### 4. **Nebula: The Multi-Cloud Command Center**
+
+- **Project**: Development and research on **Nebula**, a high-performance, API-first orchestration engine.
+- **Objective**: Unifying the fragmented multi-cloud landscape (AWS, Azure, GCP) into a single control plane. Currently authoring and publishing a research paper detailing the project's architecture, including the Nebula AI Copilot and Async Provisioning Engine.
+- **GitHub Repository**: [Nebula Multi-Cloud](https://github.com/PriyanshuKSharma/multi-cloud)
+
 ---
 
 ## 📜 Certifications & Virtual Internships
@@ -97,16 +103,13 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 ## 📘 Lab Manuals & Educational Guides
 
 1. **Ubuntu Linux Installation Manual**
-
    - A comprehensive guide on installing and configuring **Ubuntu Linux on VirtualBox**. Covers setup, installation, and optimization tips for performance.
 
 2. **Shell Scripting for Beginners**
-
    - Guide on **shell scripting basics** with examples of **file permissions**, **system service management**, and scripting tasks.
    - Example scripts for **text manipulation** in files, displaying **days of the week** in reverse, and setting permissions.
 
 3. **Fit Raho Gym Website**
-
    - Developed an interactive website for **Fit Raho Gym** using **HTML, CSS, and JavaScript** with sections like **About Us**, background images, and buttons for user engagement.
 
 ---
@@ -181,7 +184,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 ### Infrastructure as Code
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="70" title="Terraform" />  
-<img src="https://tse4.mm.bing.net/th/id/OIP.ez8CrWOrxEy9PlWdx0bOGAAAAA?w=428&h=107&rs=1&pid=ImgDetMain&o=7&rm=3" width="85" height="115" title="Pulumi" />
+<img src="https://www.honeycomb.io/wp-content/uploads/2022/12/integration_pulumi_featured_image.svg" width="" height="60" title="Pulumi" />
 
 ---
 
@@ -214,6 +217,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 
 ## 💻 Notable Projects
 
+- 🌌 [**Nebula: The Multi-Cloud Command Center**](https://github.com/PriyanshuKSharma/multi-cloud) – An API-first orchestration engine abstracting AWS, Azure, and GCP (Research Paper in progress).
 - 🌩️ [**Media Storage SaaS**](https://github.com/PriyanshuKSharma/media-storage-saas) – A scalable cloud-based storage SaaS.
 - ⚛️ [**Quantum-Cloud Integration**](https://github.com/PriyanshuKSharma/quantum-cloud-integration) – Hybrid Quantum-Cloud system with AWS & IBM Q.
 - ☁️ [**SkyVault**](https://github.com/PriyanshuKSharma/SkyVault) – Personal cloud platform with Docker & interactive frontend.
@@ -381,8 +385,8 @@ timeline
 
 ## 🎯 Future Goals
 
-- 🚀 Build **SkyVault: Personal Docker-based Cloud Storage**
-- 📑 Publish research on **Quantum-Cloud Systems & IAM**
+- 🚀 Build **Nebula: Multi-Cloud Orchestrator**
+- 📑 Publish research on **Quantum-Cloud Systems, IAM, & Nebula Multi-Cloud Architecture**
 - 🔐 Contribute to **open-source InfoSec tools**
 
 ---
