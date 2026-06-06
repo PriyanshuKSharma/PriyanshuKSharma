@@ -216,7 +216,7 @@ timeline
     2019 : Higher Secondary Education at Sri Chaitanya High School
     2020 : Intermediate Education begins at Sri Chaitanya Jr. Kalasala
     2022 : B.Tech in Information Technology begins at ADYPU
-    Present : Specializing in Cloud Technology and Information Security with CGPA 9.9
+    2026 : B.Tech Graduate, Specialization in Cloud Technology and Information Security with CGPA 9.91
 ```
 
 | Degree / Stage                       | Institution                           | Timeline            | Highlight                                                                 |
