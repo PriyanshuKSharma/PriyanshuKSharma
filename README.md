@@ -131,18 +131,18 @@
 
 <p align="center">
   <a href="https://github.com/PriyanshuKSharma/multi-cloud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=multi-cloud&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=C9D1D9&icon_color=818cf8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=multi-cloud&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=C9D1D9&icon_color=818cf8&cache_seconds=1800" />
   </a>
   <a href="https://github.com/PriyanshuKSharma/quantum-cloud-integration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=quantum-cloud-integration&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=C9D1D9&icon_color=818cf8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=quantum-cloud-integration&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=C9D1D9&icon_color=818cf8&cache_seconds=1800" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/PriyanshuKSharma/rural-gyan-paltform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=rural-gyan-paltform&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=C9D1D9&icon_color=818cf8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=rural-gyan-paltform&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=C9D1D9&icon_color=818cf8&cache_seconds=1800" />
   </a>
   <a href="https://github.com/PriyanshuKSharma/xai_explainaibility">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=xai_explainaibility&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=C9D1D9&icon_color=818cf8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=xai_explainaibility&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=C9D1D9&icon_color=818cf8&cache_seconds=1800" />
   </a>
 </p>
 
