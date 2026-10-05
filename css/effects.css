@@ -1,0 +1,7 @@
+/* Mission Control, snapping, typewriter, hot corner. */
+#desk{transition:background .4s}#desk.mc{background:#02061090}.mc .win *{pointer-events:none}.mc .win{cursor:pointer;box-shadow:0 0 0 2px #22d3ee66,0 24px 60px #000b}.mc .win:hover{box-shadow:0 0 0 3px #22d3ee,0 24px 60px #000b}
+.di,#wg,#wg2{transition:opacity .35s}.mc .di,.mc #wg,.mc #wg2{opacity:0}
+#snp{position:absolute;border:1.5px solid #22d3eeaa;background:#22d3ee26;border-radius:12px;opacity:0;transition:all .2s cubic-bezier(.2,.9,.3,1);pointer-events:none;z-index:8000;box-shadow:0 0 40px #22d3ee44 inset}
+.win.sn{transition:left .35s cubic-bezier(.2,.9,.3,1),top .35s cubic-bezier(.2,.9,.3,1),width .35s cubic-bezier(.2,.9,.3,1),height .35s cubic-bezier(.2,.9,.3,1)}
+.ty2{font:12.5px ui-monospace,Menlo,monospace;color:var(--lk);margin-top:5px}#ty::after{content:"▍";margin-left:2px;animation:blink 1s steps(2) infinite}
+#hc{position:fixed;left:0;bottom:0;width:12px;height:12px;z-index:9999}
