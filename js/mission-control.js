@@ -11,7 +11,7 @@ var mb2=document.createElement("button");
 mb2.className="dk";
 mb2.dataset.n="Mission Control";
 mb2.setAttribute("aria-label","Mission Control");
-mb2.innerHTML='<div class="tile" style="background:linear-gradient(#7b8cff,#2a2f94)">'+ic("g")+'</div>';
+mb2.innerHTML='<div class="tile" style="background:#2a2f3c">'+MCART+'</div>';
 mb2.onclick=mission;
 dock.insertBefore(mb2,dock.children[1]);
 var hc=document.createElement("div"),ht;

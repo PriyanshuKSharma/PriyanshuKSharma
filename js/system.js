@@ -7,7 +7,7 @@ function boot(){var b=document.getElementById("boot");if(!b){b=document.createEl
  var t=b.querySelector(".bt"),pc=b.querySelector(".bp"),n=0;
  ["> INITIALIZING KERNEL...","> LOADING MODULES...","> VERIFYING SECURITY PROTOCOLS...","> ACCESSING MAINFRAME"].forEach(function(x,i){setTimeout(function(){t.insertAdjacentHTML("beforeend","<div>"+x+"</div>")},250+i*650)});
  var iv=setInterval(function(){n=Math.min(100,n+4);pc.textContent=n+"%";if(n>=100)clearInterval(iv)},100);
- setTimeout(function(){b.classList.add("off");open("about");if(innerWidth>900)setTimeout(function(){open("terminal")},450);cnt();setTimeout(function(){notify("Welcome to Priyanshu’s Mac","Press Ctrl/⌘ K, drag a window to a screen edge to snap it, or rest the cursor in the bottom-left corner for Mission Control.")},1500)},2900);setTimeout(function(){b.remove()},3500)}
+ setTimeout(function(){b.classList.add("off");open("about");cnt();setTimeout(function(){notify("Welcome to Priyanshu’s Mac","Right-click a dock icon to pin an app to the desktop. Press Ctrl/⌘ K to search everything.")},1500)},2900);setTimeout(function(){b.remove()},3500)}
 var lse=document.createElement("div");
 lse.id="ls";
 lse.innerHTML='<div id="lt" style="font-size:76px;font-weight:600;letter-spacing:-.02em"></div><div id="ld" style="font-size:20px;margin-bottom:40px"></div><div class="av">PS</div><div style="font-weight:600;font-size:16px">Priyanshu</div><div style="opacity:.7">Click anywhere to unlock</div>';

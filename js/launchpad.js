@@ -8,7 +8,7 @@ var lb=document.createElement("button");
 lb.className="dk";
 lb.dataset.n="Launchpad";
 lb.setAttribute("aria-label","Launchpad");
-lb.innerHTML='<div class="tile" style="background:linear-gradient(#8e93a3,#4b4f5e)">'+ic("l")+'</div>';
+lb.innerHTML='<div class="tile" style="background:#d5d8e0">'+LPART+'</div>';
 lb.onclick=function(){lpe.classList.toggle("on")};
 dock.insertBefore(lb,dock.firstChild);
 document.addEventListener("keydown",function(e){if(e.key==="Escape")lpe.classList.remove("on")});
