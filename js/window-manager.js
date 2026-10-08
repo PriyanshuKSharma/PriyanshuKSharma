@@ -1,8 +1,8 @@
 /* Windows: split-view layout, desktop icons, dock buttons, open/close/minimize/zoom, drag with tilt, genie animation. */
-function split(b,a){b.style.cssText="padding:0;display:flex;overflow:hidden";b.innerHTML='<nav class="sb"></nav><section class="dt"></section>';var nv=b.firstChild,dt=b.lastChild,f=-1;
- a.nav.forEach(function(n,i){var d=document.createElement("div");if(n[0]==="#"){d.className="sh";d.textContent=n[1]}else{d.className="si";d.innerHTML="<b>"+n[0]+"</b><span>"+n[1]+"</span>";d.onclick=function(){sel(i)};if(f<0)f=i}nv.appendChild(d)});
- function sel(i){[].forEach.call(nv.children,function(c,j){c.classList.toggle("on",j===i)});dt.innerHTML=a.nav[i][2];dt.scrollTop=0}
- sel(f)}
+function split(b,a){b.style.cssText="padding:0;display:flex;overflow:hidden";b.innerHTML='<nav class="sb"></nav><section class="dt"></section>';var nv=b.firstChild,dt=b.lastChild,f=-1,IOS=document.documentElement.classList.contains("ios");
+ a.nav.forEach(function(n,i){var d=document.createElement("div");if(n[0]==="#"){d.className="sh";d.textContent=n[1]}else{d.className="si";d.innerHTML="<b>"+n[0]+"</b><span>"+n[1]+"</span>";d.onclick=function(){sel(i);if(IOS)b.classList.add("sp-detail")};if(f<0)f=i}nv.appendChild(d)});
+ function sel(i){[].forEach.call(nv.children,function(c,j){c.classList.toggle("on",j===i)});dt.innerHTML=(IOS?'<button class="btn o sbk">‹ Back</button>':"")+a.nav[i][2];if(IOS)dt.querySelector(".sbk").onclick=function(){b.classList.remove("sp-detail")};dt.scrollTop=0}
+ if(!IOS)sel(f)}
 var order=["about","exp","projects","skills","certs","research","github","learning","resume","terminal","contact"],W={},z=10,n=0,desk=document.getElementById("desk"),dock=document.getElementById("dock");
 order.forEach(function(k,i){
  var a=A[k];

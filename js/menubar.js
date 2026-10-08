@@ -1,5 +1,4 @@
 /* Menu bar dropdowns, Apple menu, About This Mac, desktop right-click menu. */
-A.mac={t:"About This Mac",e:"",c:"",w:360,h:340,dk:document.createElement("div"),r:function(){return '<div style="text-align:center"><div class="av" style="margin:0 auto 10px">PS</div><h3>Priyanshu’s Mac</h3><div class="mute">Portfolio OS 26 · Cloud Edition</div></div><div class="row"><div class="top"><span class="mute">Chip</span><span>Cloud + Security + Research</span></div><div class="top"><span class="mute">Memory</span><span>7 projects, 1 paper</span></div><div class="top"><span class="mute">Startup disk</span><span>IIT Patna, M.Tech</span></div><div class="top"><span class="mute">Serial</span><span>PKS-9.9-2026</span></div></div>'}};
 var dd=document.createElement("div");
 dd.id="dd";
 document.body.appendChild(dd);
