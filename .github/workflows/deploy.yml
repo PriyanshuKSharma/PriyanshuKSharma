@@ -51,7 +51,7 @@ jobs:
       - name: Stage only the files the site needs
         run: |
           mkdir _site
-          cp -r index.html css js data assets _site/
+          cp -r index.html favicon.ico css js data assets _site/
           touch _site/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
