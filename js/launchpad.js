@@ -11,4 +11,6 @@ lb.setAttribute("aria-label","Launchpad");
 lb.innerHTML='<div class="tile" style="background:#d5d8e0">'+LPART+'</div>';
 lb.onclick=function(){lpe.classList.toggle("on")};
 dock.insertBefore(lb,dock.firstChild);
+var ab=document.getElementById("appsbtn");
+if(ab)ab.onclick=function(){lpe.classList.toggle("on")};
 document.addEventListener("keydown",function(e){if(e.key==="Escape")lpe.classList.remove("on")});
